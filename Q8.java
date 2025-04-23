@@ -28,3 +28,15 @@ public class Q8 {
         return '\0';
     }
 }
+//optimal approach
+// int[] freq = new int[26];
+// for (int i = 0; i < x.length(); i++) {
+//      freq[x.charAt(i)-'a']++;
+// }
+// for (int i = 0; i < x.length(); i++) {
+//     if(freq[x.charAt(i)-'a'] == 1)
+//     {
+//         return x.charAt(i);
+//     }
+// }
+// return '\0';
