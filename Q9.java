@@ -1,3 +1,10 @@
+// Concatenate two input strings such that if the last character in the first string and first character in the second string are same, either of the one should be removed.
+//  Input: string1: cat, string2: tree
+//  Output: catree
+//  Input: string1: Yamaha string2: RX
+//  Output: YamahaRX
+
+
 public class Q9 {
     public static void main(String[] args) {
         String s1 = "cat";
