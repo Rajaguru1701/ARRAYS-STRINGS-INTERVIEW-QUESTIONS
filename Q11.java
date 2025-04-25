@@ -2,7 +2,7 @@
 // Output: ng
 // Explanation: The remaining substring of s after the 3rd
 // occurrence of 'i' is "ng", hence the output is ng.
-class P11 {
+class Q11 {
     public static void main(String[] args) {
         String s = "thisisdemostring";
         int cnt = 3;
